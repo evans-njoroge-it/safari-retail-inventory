@@ -36,4 +36,4 @@ Data Sync: One-click synchronization with the local SQLite instance.
 Implementation Details
 The project was developed to address specific "Stock-Out" scenarios where inventory accuracy is critical for maintaining high uptime in retail operations. By leveraging a local database approach, the system remains resilient even in environments with intermittent network connectivity.
 
-Developed by Evans Njoroge IT Support Specialist & Software Developer
+Developed by Evans Njoroge IT Support Specialist & Software Developer 
