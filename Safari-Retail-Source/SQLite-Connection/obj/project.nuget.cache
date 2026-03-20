@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "zMGLrqKxVug=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vans\\Documents\\projects\\safari-retail-inventory-system\\Safari-Retail-Source\\SQLite-Connection\\SQLite-Connection.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vans\\.nuget\\packages\\stub.system.data.sqlite.core.netstandard\\1.0.119\\stub.system.data.sqlite.core.netstandard.1.0.119.nupkg.sha512",
+    "C:\\Users\\vans\\.nuget\\packages\\system.data.sqlite.core\\1.0.119\\system.data.sqlite.core.1.0.119.nupkg.sha512"
+  ],
+  "logs": []
+}
